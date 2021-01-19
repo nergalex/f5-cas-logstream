@@ -83,7 +83,7 @@ Installation
 
 Logstream
 ###############
-Create and launch a workflow template ``wf-create_vm_app_nginx_unit`` that includes those Job templates in this order:
+Create and launch a workflow template ``wf-create_vm_app_nginx_unit_logstream_cas`` that includes those Job templates in this order:
 
 =============================================================   =============================================       =============================================   =============================================   =============================================   =============================================   =============================================
 Job template                                                    objective                                           playbook                                        activity                                        inventory                                       limit                                           credential
