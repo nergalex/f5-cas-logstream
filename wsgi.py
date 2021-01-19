@@ -465,7 +465,7 @@ class Forward(Resource):
         else:
             # Authorization request
             try:
-                data_json = request.get_json()
+                data_json = request.get_json(force=True)
             except:
                 return {'msg': 'heartbeat OK - no JSON'}
 
