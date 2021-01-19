@@ -1,0 +1,13 @@
+{
+    "cas": {
+        "api_key": "TESTKEY"
+    },
+    "logcollector": {
+        "syslog": [
+            {
+                "ip_address": "127.100.0.11",
+                "port": 5140
+            }
+        ]
+    }
+}
