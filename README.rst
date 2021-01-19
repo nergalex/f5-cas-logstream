@@ -187,6 +187,36 @@ Remote Syslog
 .. code:: bash
 
     curl -L https://toolbelt.treasuredata.com/sh/install-redhat-td-agent4.sh | sh
+    systemctl start td-agent.service
+
+- Configure Fluentd
+.. code:: bash
+
+    vi /etc/td-agent/td-agent.conf
+        <match debug.**>
+          @type stdout
+          @id output_stdout
+        </match>
+        <source>
+          @type http
+          @id input_http
+          port 8888
+        </source>
+        <source>
+          @type syslog
+          tag debug.logstream
+          port 5140
+          bind 0.0.0.0
+          <transport tcp>
+            </transport>
+        </source>
+
+- Unit test
+.. code:: bash
+
+    tail -f -n 1 /var/log/td-agent/td-agent.log &
+    curl -X POST -d 'json={"json":"message"}' http://localhost:8888/debug.test
+
 
 
 Uninstallation
