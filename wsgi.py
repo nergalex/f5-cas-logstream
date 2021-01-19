@@ -469,9 +469,13 @@ class Forward(Resource):
             except:
                 return {'msg': 'OK'}
 
+            if data_json is None:
+                return {'msg': 'OK'}
+
             # Append events
-            cas.append_events(data_json)
-            return {'msg': 'OK'}
+            else:
+                cas.append_events(data_json)
+                return {'msg': 'OK'}
 
 
 # Global var
