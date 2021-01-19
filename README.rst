@@ -23,6 +23,9 @@ Security consideration
 #########################
 No logs are stored. LogStream receives logs and then PUSH them directly to remote log collector servers.
 
+Pre requisites
+==================================================
+
 Virtualenv
 ***************************
 - Create a virtualenv following `this guide <https://docs.ansible.com/ansible-tower/latest/html/upgrade-migration-guide/virtualenv.html>`_
