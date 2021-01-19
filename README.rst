@@ -278,3 +278,21 @@ Configuration
 API reference
 ==================================================
 Access to API Dev Portal with your browser ``http://<extra_vm.ip_mgt>:8080/apidocs/``
+
+Troubleshoot
+==================================================
+View audit log:
+
+:kbd:`tail -100 /var/log/unit/unit.log`
+
+View access log:
+
+:kbd:`tail -f /var/log/unit/access.log`
+
+View app log:
+
+:kbd:`tail -f /etc/faas-apps/logstream-cas/logstream.log`
+
+
+
+

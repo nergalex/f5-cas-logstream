@@ -467,15 +467,15 @@ class Forward(Resource):
             try:
                 data_json = request.get_json()
             except:
-                return {'msg': 'OK'}
+                return {'msg': 'heartbeat OK - no JSON'}
 
             if data_json is None:
-                return {'msg': 'OK'}
+                return {'msg': 'heartbeat OK - JSON none'}
 
             # Append events
             else:
                 cas.append_events(data_json)
-                return {'msg': 'OK'}
+                return {'msg': 'security event OK'}
 
 
 # Global var
