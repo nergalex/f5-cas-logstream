@@ -40,6 +40,7 @@
   git:
     repo: "{{ faas_app.repo }}"
     dest: "/etc/faas-apps/{{ faas_app.name }}/"
+    force: yes
 
 - name: SET write permission directory
   file:

@@ -80,10 +80,81 @@ Ansible role structure
 
 Installation
 ==================================================
+Remote Syslog
+#################
+-  `Optimize the Network Kernel Parameters <https://docs.fluentd.org/installation/before-install#optimize-the-network-kernel-parameters>`_
+.. code:: bash
+
+    vi /etc/sysctl.conf
+        net.core.somaxconn = 1024
+        net.core.netdev_max_backlog = 5000
+        net.core.rmem_max = 16777216
+        net.core.wmem_max = 16777216
+        net.ipv4.tcp_wmem = 4096 12582912 16777216
+        net.ipv4.tcp_rmem = 4096 12582912 16777216
+        net.ipv4.tcp_max_syn_backlog = 8096
+        net.ipv4.tcp_slow_start_after_idle = 0
+        net.ipv4.tcp_tw_reuse = 1
+        net.ipv4.ip_local_port_range = 10240 65535
+    sysctl -p
+
+- Install `Fluentd <https://docs.fluentd.org/installation/install-by-rpm>`_
+.. code:: bash
+
+    curl -L https://toolbelt.treasuredata.com/sh/install-redhat-td-agent4.sh | sh
+    systemctl start td-agent.service
+
+- Configure Fluentd with a TCP syslog INPUT
+.. code:: bash
+
+    vi /etc/td-agent/td-agent.conf
+        <match debug.**>
+          @type stdout
+          @id output_stdout
+        </match>
+        <source>
+          @type http
+          @id input_http
+          port 8888
+        </source>
+        <source>
+          @type syslog
+          tag debug.logstream
+          port 5140
+          bind 0.0.0.0
+          <transport tcp>
+            </transport>
+        </source>
+
+- Unit test
+.. code:: bash
+
+    tail -f -n 1 /var/log/td-agent/td-agent.log &
+    curl -X POST -d 'json={"json":"message"}' http://localhost:8888/debug.test
+
+
 
 Logstream
 ###############
-Create and launch a workflow template ``wf-create_vm_app_nginx_unit_logstream_cas`` that includes those Job templates in this order:
+- clone this github repository and set ``declaration.json`` with your values
+
+.. code:: json
+
+    {
+        "cas": {
+            "api_key": "MySharedSecretWithNGINXController"
+        },
+        "logcollector": {
+            "syslog": [
+                {
+                    "ip_address": "10.100.0.11",
+                    "port": 5140
+                }
+            ]
+        }
+    }
+
+- Create and launch a workflow template ``wf-create_vm_app_nginx_unit_logstream_cas`` that includes those Job templates in this order:
 
 =============================================================   =============================================       =============================================   =============================================   =============================================   =============================================   =============================================
 Job template                                                    objective                                           playbook                                        activity                                        inventory                                       limit                                           credential
@@ -108,7 +179,7 @@ Extra variable                                  Description
 ``extra_subnet_mgt_on_premise``                 Cross management zone via VPN GW
 ``faas_app``                                    Dict of Function as a Service
 ``faas_app.name``                               App's name
-``faas_app.repo``                               App's repo
+``faas_app.repo``                               Your cloned Logstream repo
 ``faas_app.ca_pem``                             Intermediate CA that signed App's keys
 ``faas_app.cert_pem``                           App's certificate
 ``faas_app.key_pem``                            App's key
@@ -165,57 +236,7 @@ Extra variable                                  Description
       password: MyPassword!
       username: admin@acme.com
 
-Remote Syslog
-#################
--  `Optimize the Network Kernel Parameters <https://docs.fluentd.org/installation/before-install#optimize-the-network-kernel-parameters>`_
-.. code:: bash
 
-    vi /etc/sysctl.conf
-        net.core.somaxconn = 1024
-        net.core.netdev_max_backlog = 5000
-        net.core.rmem_max = 16777216
-        net.core.wmem_max = 16777216
-        net.ipv4.tcp_wmem = 4096 12582912 16777216
-        net.ipv4.tcp_rmem = 4096 12582912 16777216
-        net.ipv4.tcp_max_syn_backlog = 8096
-        net.ipv4.tcp_slow_start_after_idle = 0
-        net.ipv4.tcp_tw_reuse = 1
-        net.ipv4.ip_local_port_range = 10240 65535
-    sysctl -p
-
-- Install `Fluentd <https://docs.fluentd.org/installation/install-by-rpm>`_
-.. code:: bash
-
-    curl -L https://toolbelt.treasuredata.com/sh/install-redhat-td-agent4.sh | sh
-    systemctl start td-agent.service
-
-- Configure Fluentd
-.. code:: bash
-
-    vi /etc/td-agent/td-agent.conf
-        <match debug.**>
-          @type stdout
-          @id output_stdout
-        </match>
-        <source>
-          @type http
-          @id input_http
-          port 8888
-        </source>
-        <source>
-          @type syslog
-          tag debug.logstream
-          port 5140
-          bind 0.0.0.0
-          <transport tcp>
-            </transport>
-        </source>
-
-- Unit test
-.. code:: bash
-
-    tail -f -n 1 /var/log/td-agent/td-agent.log &
-    curl -X POST -d 'json={"json":"message"}' http://localhost:8888/debug.test
 
 
 
