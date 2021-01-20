@@ -9,15 +9,10 @@ Use Case
 
 LogStream forwards http security event logs - received from NGINX Controller App Sec - to remote syslog servers (log collector, SIEM)
 
-.. figure:: _figures/Architecture_global_direct.png
-
 Demo
 ###############
 
-.. raw:: html
-
-    <a href="http://www.youtube.com/watch?v=BMEK_JEi3cc"><img src="http://img.youtube.com/vi/BMEK_JEi3cc/0.jpg" width="600" height="400" title="Create Identity Provider" alt="Create Identity Provider"></a>
-
+ToDo
 
 Security consideration
 #########################
