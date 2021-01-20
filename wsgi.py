@@ -470,7 +470,7 @@ class Forward(Resource):
                 try:
                     data_json = json.loads(request.get_data())
                 except:
-                    return {'msg': 'heartbeat OK - JSON none'}
+                    return request.get_data()
 
             # Append events
             else:
