@@ -473,7 +473,11 @@ class Forward(Resource):
         else:
             print("Events")
             print("%s" % request.data.decode())
-            logger.error('%s' %
+            logger.error('request.data: %s' %
+                         request.data)
+            logger.error('request.get_data: %s' %
+                         request.get_data())
+            logger.error('request.data.decode: %s' %
                          (request.data.decode()))
             data_json = json.loads(request.data.decode())
             data_json = request.get_json(force=True, silent=True)
