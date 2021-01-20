@@ -13,7 +13,33 @@
       - git
       - unit
       - unit-python36
+      - gcc
+      - openssl-devel
+      - bzip2-devel
+      - libffi-devel
+      - zlib-devel
     state: present
+
+#- name: Download foo.conf
+#  get_url:
+#    url: https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tgz
+#    dest: /usr/src/Python-3.7.9.tgz
+
+- name: Unarchive Python3.7
+  unarchive:
+    src: https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tgz
+    dest: /usr/src
+    remote_src: yes
+
+- name: Configure install Python3.7
+  command: ./configure --enable-optimizations
+  args:
+    chdir: /usr/src/Python-3.7.9
+
+- name: Install Python3.7
+  make:
+    chdir: /usr/src/Python-3.7.9
+    target: altinstall
 
 - name: Start service NGINX Unit, if not started
   service:
@@ -64,13 +90,13 @@
       - pip
       - virtualenv
     state: forcereinstall
-    executable: pip3.6
+    executable: pip3.7
 
 - name: INSTALL requirements
   pip:
     requirements: "/etc/faas-apps/{{ faas_app.name }}/requirements.txt"
     virtualenv: /etc/faas-apps/venv
-    virtualenv_python: python3.6
+    virtualenv_python: python3.7
     virtualenv_command: /usr/local/bin/virtualenv
 
 - name: SET var_bundle

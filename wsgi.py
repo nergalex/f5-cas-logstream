@@ -6,6 +6,7 @@ import logging
 import threading
 import uuid
 import time
+import json
 
 application = Flask(__name__)
 api = Api(application)
@@ -464,13 +465,12 @@ class Forward(Resource):
             }
         else:
             # Authorization request
-            try:
-                data_json = request.get_json(force=True)
-            except:
-                return {'msg': 'heartbeat OK - no JSON'}
-
+            data_json = request.get_json(force=True, silent=True)
             if data_json is None:
-                return {'msg': 'heartbeat OK - JSON none'}
+                try:
+                    data_json = json.loads(request.get_data())
+                except:
+                    return {'msg': 'heartbeat OK - JSON none'}
 
             # Append events
             else:
