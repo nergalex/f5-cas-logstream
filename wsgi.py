@@ -473,8 +473,13 @@ class Forward(Resource):
         else:
             print("Events")
             print("%s" % request.data.decode())
+            logger.error('%s' %
+                         (request.data.decode()))
+            data_json = json.loads(request.data.decode())
             data_json = request.get_json(force=True, silent=True)
             if data_json is None:
+                logger.error('%s' %
+                             (request.data.decode()))
                 data_json = json.loads(request.data.decode())
             cas.append_events(data_json)
             return {'msg': 'security event OK'}
