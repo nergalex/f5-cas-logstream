@@ -78,6 +78,7 @@ Installation
 Remote Syslog
 #################
 -  `Optimize the Network Kernel Parameters <https://docs.fluentd.org/installation/before-install#optimize-the-network-kernel-parameters>`_
+
 .. code:: bash
 
     vi /etc/sysctl.conf
@@ -94,11 +95,13 @@ Remote Syslog
     sysctl -p
 
 - Install `Fluentd <https://docs.fluentd.org/installation/install-by-rpm>`_
+
 .. code:: bash
 
     curl -L https://toolbelt.treasuredata.com/sh/install-redhat-td-agent4.sh | sh
 
 - Configure Fluentd with a TCP syslog INPUT
+
 .. code:: bash
 
     vi /etc/td-agent/td-agent.conf
@@ -128,6 +131,7 @@ Remote Syslog
 
 
 - Unit test
+
 .. code:: bash
 
     tail -f -n 1 /var/log/td-agent/td-agent.log &
@@ -137,7 +141,7 @@ Remote Syslog
 
 Logstream
 ###############
-- clone this github repository and set ``declaration.json`` with your values
+Clone this github repository and set ``declaration.json`` with your values
 
 .. code:: json
 
@@ -155,7 +159,7 @@ Logstream
         }
     }
 
-- Create and launch a workflow template ``wf-create_vm_app_nginx_unit_logstream_cas`` that includes those Job templates in this order:
+Create and launch a workflow template ``wf-create_vm_app_nginx_unit_logstream_cas`` that includes those Job templates in this order:
 
 =============================================================   =============================================       =============================================   =============================================   =============================================   =============================================   =============================================
 Job template                                                    objective                                           playbook                                        activity                                        inventory                                       limit                                           credential
@@ -209,6 +213,7 @@ Extra variable                                  Description
 
 NGINX Controller
 #################
+
 =============================================================   =============================================       =============================================   =============================================   =============================================   =============================================   =============================================
 Job template                                                    objective                                           playbook                                        activity                                        inventory                                       limit                                           credential
 =============================================================   =============================================       =============================================   =============================================   =============================================   =============================================   =============================================
@@ -236,10 +241,6 @@ Extra variable                                  Description
       ip: 10.0.0.43
       password: MyPassword!
       username: admin@acme.com
-
-
-
-
 
 Uninstallation
 ==================================================
