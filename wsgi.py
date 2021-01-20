@@ -472,12 +472,14 @@ class Forward(Resource):
             print("Events--------------------------------------")
             print('request.data.decode: %s' %
                   (request.data.decode()))
-            logger.error('request.data: %s' %
-                         request.data)
+            print('CONTENT_TYPE: %s' %
+                  (request.headers.environ['CONTENT_TYPE']))
+
             logger.error('request.get_data: %s' %
                          request.get_data())
-            logger.error('request.data.decode: %s' %
-                         (request.data.decode()))
+            logger.error('CONTENT_TYPE: %s' %
+                         (request.headers.environ['CONTENT_TYPE']))
+
             # END DEBUG ISSUE #
 
             data_json = request.get_json(force=True, silent=True)
