@@ -468,27 +468,21 @@ class Forward(Resource):
 
         # Events
         else:
-            # DEBUG ISSUE - header application/x-www-form-urlencoded generates an empty request.data value in Flask via NGINX UNIT #
-            print("Events--------------------------------------")
-            print('request.data.decode: %s' %
-                  (request.data.decode()))
-            print('CONTENT_TYPE: %s' %
-                  (request.headers.environ['CONTENT_TYPE']))
 
-            logger.error('request.get_data: %s' %
-                         request.get_data())
-            logger.error('CONTENT_TYPE: %s' %
-                         (request.headers.environ['CONTENT_TYPE']))
+            # WORKAROUND ISSUE - header application/x-www-form-urlencoded generates an empty request.data value in Flask via NGINX UNIT #
+            if request.content_type == 'application/x-www-form-urlencoded':
+                data_form = ''
+                for key, value in request.form.items():
+                    data_form = key + value
+                data_json = json.loads(data_form)
+            else:
+                data_json = request.get_json(force=True, silent=True)
 
-            # END DEBUG ISSUE #
-
-            data_json = request.get_json(force=True, silent=True)
+            print('%s' % str(data_json))
             if data_json is None:
-                logger.error('%s' %
-                             (request.data.decode()))
                 return {
-                    'code': 401,
-                    'msg': 'Malformed request'
+                    'code': 400,
+                    'msg': 'Bad request'
                 }
             cas.append_events(data_json)
             return {'msg': 'security event OK'}

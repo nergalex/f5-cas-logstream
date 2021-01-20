@@ -3972,3 +3972,769 @@
 2021-01-20 23:43:47,950 INFO 212.121.177.181 - - [20/Jan/2021 23:43:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
 2021-01-20 23:43:52,947 INFO 212.121.177.181 - - [20/Jan/2021 23:43:52] "[37mPOST /forward HTTP/1.1[0m" 200 -
 2021-01-20 23:43:57,952 INFO 212.121.177.181 - - [20/Jan/2021 23:43:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:02,949 INFO 212.121.177.181 - - [20/Jan/2021 23:44:02] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:07,949 INFO 212.121.177.181 - - [20/Jan/2021 23:44:07] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:12,950 INFO 212.121.177.181 - - [20/Jan/2021 23:44:12] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:17,952 INFO 212.121.177.181 - - [20/Jan/2021 23:44:17] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:22,975 INFO 212.121.177.181 - - [20/Jan/2021 23:44:22] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:27,960 INFO 212.121.177.181 - - [20/Jan/2021 23:44:27] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:32,953 INFO 212.121.177.181 - - [20/Jan/2021 23:44:32] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:37,964 INFO 212.121.177.181 - - [20/Jan/2021 23:44:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:42,953 INFO 212.121.177.181 - - [20/Jan/2021 23:44:42] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:47,956 INFO 212.121.177.181 - - [20/Jan/2021 23:44:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:52,960 INFO 212.121.177.181 - - [20/Jan/2021 23:44:52] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:44:57,955 INFO 212.121.177.181 - - [20/Jan/2021 23:44:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:02,956 INFO 212.121.177.181 - - [20/Jan/2021 23:45:02] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:07,958 INFO 212.121.177.181 - - [20/Jan/2021 23:45:07] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:12,959 INFO 212.121.177.181 - - [20/Jan/2021 23:45:12] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:17,957 INFO 212.121.177.181 - - [20/Jan/2021 23:45:17] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:22,961 INFO 212.121.177.181 - - [20/Jan/2021 23:45:22] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:27,960 INFO 212.121.177.181 - - [20/Jan/2021 23:45:27] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:32,959 INFO 212.121.177.181 - - [20/Jan/2021 23:45:32] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:37,962 INFO 212.121.177.181 - - [20/Jan/2021 23:45:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:42,966 INFO 212.121.177.181 - - [20/Jan/2021 23:45:42] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:47,962 INFO 212.121.177.181 - - [20/Jan/2021 23:45:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:52,963 INFO 212.121.177.181 - - [20/Jan/2021 23:45:52] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:45:57,967 INFO 212.121.177.181 - - [20/Jan/2021 23:45:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:02,970 INFO 212.121.177.181 - - [20/Jan/2021 23:46:02] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:07,968 INFO 212.121.177.181 - - [20/Jan/2021 23:46:07] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:12,973 INFO 212.121.177.181 - - [20/Jan/2021 23:46:12] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:17,969 INFO 212.121.177.181 - - [20/Jan/2021 23:46:17] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:22,967 INFO 212.121.177.181 - - [20/Jan/2021 23:46:22] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:27,967 INFO 212.121.177.181 - - [20/Jan/2021 23:46:27] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:32,970 INFO 212.121.177.181 - - [20/Jan/2021 23:46:32] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:37,967 INFO 212.121.177.181 - - [20/Jan/2021 23:46:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:42,967 INFO 212.121.177.181 - - [20/Jan/2021 23:46:42] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:47,970 INFO 212.121.177.181 - - [20/Jan/2021 23:46:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:52,971 INFO 212.121.177.181 - - [20/Jan/2021 23:46:52] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:46:57,970 INFO 212.121.177.181 - - [20/Jan/2021 23:46:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:02,972 INFO 212.121.177.181 - - [20/Jan/2021 23:47:02] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:07,976 INFO 212.121.177.181 - - [20/Jan/2021 23:47:07] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:12,974 INFO 212.121.177.181 - - [20/Jan/2021 23:47:12] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:17,976 INFO 212.121.177.181 - - [20/Jan/2021 23:47:17] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:22,973 INFO 212.121.177.181 - - [20/Jan/2021 23:47:22] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:27,976 INFO 212.121.177.181 - - [20/Jan/2021 23:47:27] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:32,978 INFO 212.121.177.181 - - [20/Jan/2021 23:47:32] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:37,979 INFO 212.121.177.181 - - [20/Jan/2021 23:47:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:42,976 INFO 212.121.177.181 - - [20/Jan/2021 23:47:42] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:47,981 INFO 212.121.177.181 - - [20/Jan/2021 23:47:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:52,977 INFO 212.121.177.181 - - [20/Jan/2021 23:47:52] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:47:57,980 INFO 212.121.177.181 - - [20/Jan/2021 23:47:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:02,978 INFO 212.121.177.181 - - [20/Jan/2021 23:48:02] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:07,979 INFO 212.121.177.181 - - [20/Jan/2021 23:48:07] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:12,978 INFO 212.121.177.181 - - [20/Jan/2021 23:48:12] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:17,979 INFO 212.121.177.181 - - [20/Jan/2021 23:48:17] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:22,979 INFO 212.121.177.181 - - [20/Jan/2021 23:48:22] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:27,983 INFO 212.121.177.181 - - [20/Jan/2021 23:48:27] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:32,985 INFO 212.121.177.181 - - [20/Jan/2021 23:48:32] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:37,987 INFO 212.121.177.181 - - [20/Jan/2021 23:48:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:42,988 INFO 212.121.177.181 - - [20/Jan/2021 23:48:42] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:44,769 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-20 23:48:44,813 INFO  * Restarting with stat
+2021-01-20 23:48:46,002 WARNING  * Debugger is active!
+2021-01-20 23:48:46,010 INFO  * Debugger PIN: 314-794-097
+2021-01-20 23:48:46,179 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-20 23:48:47,984 INFO 212.121.177.181 - - [20/Jan/2021 23:48:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:52,983 INFO 212.121.177.181 - - [20/Jan/2021 23:48:52] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:48:57,984 INFO 212.121.177.181 - - [20/Jan/2021 23:48:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:02,996 INFO 212.121.177.181 - - [20/Jan/2021 23:49:02] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:07,985 INFO 212.121.177.181 - - [20/Jan/2021 23:49:07] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:12,984 INFO 212.121.177.181 - - [20/Jan/2021 23:49:12] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:17,986 INFO 212.121.177.181 - - [20/Jan/2021 23:49:17] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:22,988 INFO 212.121.177.181 - - [20/Jan/2021 23:49:22] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:27,988 INFO 212.121.177.181 - - [20/Jan/2021 23:49:27] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:32,988 INFO 212.121.177.181 - - [20/Jan/2021 23:49:32] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:37,989 INFO 212.121.177.181 - - [20/Jan/2021 23:49:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:42,991 INFO 212.121.177.181 - - [20/Jan/2021 23:49:42] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:47,990 INFO 212.121.177.181 - - [20/Jan/2021 23:49:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:52,991 INFO 212.121.177.181 - - [20/Jan/2021 23:49:52] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:54,818 ERROR request.get_data: b'[{"time":1611177810,"source":"nginx-controller","sourcetype":"security","host":"10.0.0.43","event":{"signature_ids":"200001475,200000098","version":"1.0","description":"Request rejected from 52.247.48.116 to app_f5-bigip-api.f5app.dev/adc_main.  Attack types: Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","http.remote_addr":"52.247.48.116","http.server_port":"443","violation_rating":"MOST_LIKELY_ATTACK","is_truncated":"false","signature_names":"XSS script tag end (Parameter) (2),XSS script tag (Parameter)","component":"adc_main","request_outcome":"REJECTED","signature_cves":"","http.request_method":"GET","correlation_id":"547d419559df7cd2a98682405fce8d6d","request":"GET /v1/mgmt/tm/asm/policies?=fullPath%20eq%20/test1/app1/waf_policy-app1%3Cscript%3E HTTP/1.1\\\\r\\\\nUser-Agent: fasthttp\\\\r\\\\nHost: f5-bigip-api.f5app.dev:443\\\\r\\\\n\\\\r\\\\n","level":"INFO","app":"app_f5-bigip-api.f5app.dev","gateway":"gw_f5-bigip-api","http.uri":"/v1/mgmt/tm/asm/policies","http.response_code":"0","http.hostname":"nginxwaf000000","type":"security violation","http.server_addr":"0.0.0.0","support_id":"12058970043145809587","policy_name":"/Common/NAPBlockingDefaultPolicy","violations":"Illegal meta character in value,Attack signature detected,Violation Rating Threat detected","environment":"env_north_f5","request_outcome_reason":"SECURITY_WAF_VIOLATION","http.remote_port":"42622","attack_types":"Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","sub_violations":"","x_forwarded_for_header_value":""}}]'
+2021-01-20 23:49:54,818 ERROR CONTENT_TYPE: application/json
+2021-01-20 23:49:54,821 INFO 127.0.0.1 - - [20/Jan/2021 23:49:54] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:49:57,994 INFO 212.121.177.181 - - [20/Jan/2021 23:49:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:03,005 INFO 212.121.177.181 - - [20/Jan/2021 23:50:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:07,734 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-20 23:50:07,768 INFO  * Restarting with stat
+2021-01-20 23:50:08,991 WARNING  * Debugger is active!
+2021-01-20 23:50:08,998 INFO  * Debugger PIN: 314-794-097
+2021-01-20 23:50:09,183 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-20 23:50:12,997 INFO 212.121.177.181 - - [20/Jan/2021 23:50:12] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:17,995 INFO 212.121.177.181 - - [20/Jan/2021 23:50:17] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:23,003 INFO 212.121.177.181 - - [20/Jan/2021 23:50:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:27,996 INFO 212.121.177.181 - - [20/Jan/2021 23:50:27] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:32,995 INFO 212.121.177.181 - - [20/Jan/2021 23:50:32] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:35,321 ERROR request.get_data: b'[{"time":1611177810,"source":"nginx-controller","sourcetype":"security","host":"10.0.0.43","event":{"signature_ids":"200001475,200000098","version":"1.0","description":"Request rejected from 52.247.48.116 to app_f5-bigip-api.f5app.dev/adc_main.  Attack types: Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","http.remote_addr":"52.247.48.116","http.server_port":"443","violation_rating":"MOST_LIKELY_ATTACK","is_truncated":"false","signature_names":"XSS script tag end (Parameter) (2),XSS script tag (Parameter)","component":"adc_main","request_outcome":"REJECTED","signature_cves":"","http.request_method":"GET","correlation_id":"547d419559df7cd2a98682405fce8d6d","request":"GET /v1/mgmt/tm/asm/policies?=fullPath%20eq%20/test1/app1/waf_policy-app1%3Cscript%3E HTTP/1.1\\\\r\\\\nUser-Agent: fasthttp\\\\r\\\\nHost: f5-bigip-api.f5app.dev:443\\\\r\\\\n\\\\r\\\\n","level":"INFO","app":"app_f5-bigip-api.f5app.dev","gateway":"gw_f5-bigip-api","http.uri":"/v1/mgmt/tm/asm/policies","http.response_code":"0","http.hostname":"nginxwaf000000","type":"security violation","http.server_addr":"0.0.0.0","support_id":"12058970043145809587","policy_name":"/Common/NAPBlockingDefaultPolicy","violations":"Illegal meta character in value,Attack signature detected,Violation Rating Threat detected","environment":"env_north_f5","request_outcome_reason":"SECURITY_WAF_VIOLATION","http.remote_port":"42622","attack_types":"Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","sub_violations":"","x_forwarded_for_header_value":""}}]'
+2021-01-20 23:50:35,321 ERROR CONTENT_TYPE: application/json
+2021-01-20 23:50:35,326 INFO 127.0.0.1 - - [20/Jan/2021 23:50:35] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:37,997 INFO 212.121.177.181 - - [20/Jan/2021 23:50:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:42,995 INFO 212.121.177.181 - - [20/Jan/2021 23:50:42] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:47,998 INFO 212.121.177.181 - - [20/Jan/2021 23:50:47] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:53,000 INFO 212.121.177.181 - - [20/Jan/2021 23:50:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:50:57,999 INFO 212.121.177.181 - - [20/Jan/2021 23:50:57] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:03,001 INFO 212.121.177.181 - - [20/Jan/2021 23:51:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:08,003 INFO 212.121.177.181 - - [20/Jan/2021 23:51:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:13,004 INFO 212.121.177.181 - - [20/Jan/2021 23:51:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:18,003 INFO 212.121.177.181 - - [20/Jan/2021 23:51:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:23,015 INFO 212.121.177.181 - - [20/Jan/2021 23:51:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:28,000 INFO 212.121.177.181 - - [20/Jan/2021 23:51:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:33,006 INFO 212.121.177.181 - - [20/Jan/2021 23:51:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:38,007 INFO 212.121.177.181 - - [20/Jan/2021 23:51:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:43,009 INFO 212.121.177.181 - - [20/Jan/2021 23:51:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:48,003 INFO 212.121.177.181 - - [20/Jan/2021 23:51:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:53,004 INFO 212.121.177.181 - - [20/Jan/2021 23:51:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:51:58,006 INFO 212.121.177.181 - - [20/Jan/2021 23:51:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:03,005 INFO 212.121.177.181 - - [20/Jan/2021 23:52:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:08,007 INFO 212.121.177.181 - - [20/Jan/2021 23:52:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:13,005 INFO 212.121.177.181 - - [20/Jan/2021 23:52:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:18,014 INFO 212.121.177.181 - - [20/Jan/2021 23:52:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:23,009 INFO 212.121.177.181 - - [20/Jan/2021 23:52:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:28,013 INFO 212.121.177.181 - - [20/Jan/2021 23:52:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:33,009 INFO 212.121.177.181 - - [20/Jan/2021 23:52:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:38,012 INFO 212.121.177.181 - - [20/Jan/2021 23:52:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:43,010 INFO 212.121.177.181 - - [20/Jan/2021 23:52:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:48,011 INFO 212.121.177.181 - - [20/Jan/2021 23:52:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:53,012 INFO 212.121.177.181 - - [20/Jan/2021 23:52:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:52:58,017 INFO 212.121.177.181 - - [20/Jan/2021 23:52:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:03,017 INFO 212.121.177.181 - - [20/Jan/2021 23:53:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:08,014 INFO 212.121.177.181 - - [20/Jan/2021 23:53:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:13,013 INFO 212.121.177.181 - - [20/Jan/2021 23:53:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:18,017 INFO 212.121.177.181 - - [20/Jan/2021 23:53:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:23,016 INFO 212.121.177.181 - - [20/Jan/2021 23:53:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:28,042 INFO 212.121.177.181 - - [20/Jan/2021 23:53:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:33,063 INFO 212.121.177.181 - - [20/Jan/2021 23:53:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:38,018 INFO 212.121.177.181 - - [20/Jan/2021 23:53:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:43,017 INFO 212.121.177.181 - - [20/Jan/2021 23:53:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:48,020 INFO 212.121.177.181 - - [20/Jan/2021 23:53:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:53,021 INFO 212.121.177.181 - - [20/Jan/2021 23:53:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:53:57,746 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-20 23:53:57,782 INFO  * Restarting with stat
+2021-01-20 23:53:58,931 WARNING  * Debugger is active!
+2021-01-20 23:53:58,937 INFO  * Debugger PIN: 314-794-097
+2021-01-20 23:53:59,119 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-20 23:54:03,026 INFO 212.121.177.181 - - [20/Jan/2021 23:54:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:08,021 INFO 212.121.177.181 - - [20/Jan/2021 23:54:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:13,032 INFO 212.121.177.181 - - [20/Jan/2021 23:54:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:18,022 INFO 212.121.177.181 - - [20/Jan/2021 23:54:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:23,022 INFO 212.121.177.181 - - [20/Jan/2021 23:54:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:28,022 INFO 212.121.177.181 - - [20/Jan/2021 23:54:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:33,024 INFO 212.121.177.181 - - [20/Jan/2021 23:54:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:38,027 INFO 212.121.177.181 - - [20/Jan/2021 23:54:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:43,027 INFO 212.121.177.181 - - [20/Jan/2021 23:54:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:48,026 INFO 212.121.177.181 - - [20/Jan/2021 23:54:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:53,025 INFO 212.121.177.181 - - [20/Jan/2021 23:54:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:54:57,511 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-20 23:54:57,570 INFO  * Restarting with stat
+2021-01-20 23:54:58,867 WARNING  * Debugger is active!
+2021-01-20 23:54:58,875 INFO  * Debugger PIN: 314-794-097
+2021-01-20 23:54:59,054 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-20 23:55:03,028 INFO 212.121.177.181 - - [20/Jan/2021 23:55:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:08,038 INFO 212.121.177.181 - - [20/Jan/2021 23:55:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:13,027 INFO 212.121.177.181 - - [20/Jan/2021 23:55:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:18,027 INFO 212.121.177.181 - - [20/Jan/2021 23:55:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:23,029 INFO 212.121.177.181 - - [20/Jan/2021 23:55:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:28,030 INFO 212.121.177.181 - - [20/Jan/2021 23:55:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:33,056 INFO 212.121.177.181 - - [20/Jan/2021 23:55:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:38,143 INFO 212.121.177.181 - - [20/Jan/2021 23:55:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:43,030 INFO 212.121.177.181 - - [20/Jan/2021 23:55:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:48,031 INFO 212.121.177.181 - - [20/Jan/2021 23:55:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:53,033 INFO 212.121.177.181 - - [20/Jan/2021 23:55:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:55:57,483 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-20 23:55:57,529 INFO  * Restarting with stat
+2021-01-20 23:55:58,800 WARNING  * Debugger is active!
+2021-01-20 23:55:58,813 INFO  * Debugger PIN: 314-794-097
+2021-01-20 23:55:58,995 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-20 23:55:59,036 INFO 212.121.177.181 - - [20/Jan/2021 23:55:59] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:03,034 INFO 212.121.177.181 - - [20/Jan/2021 23:56:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:08,063 INFO 212.121.177.181 - - [20/Jan/2021 23:56:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:13,037 INFO 212.121.177.181 - - [20/Jan/2021 23:56:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:18,034 INFO 212.121.177.181 - - [20/Jan/2021 23:56:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:23,035 INFO 212.121.177.181 - - [20/Jan/2021 23:56:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:28,037 INFO 212.121.177.181 - - [20/Jan/2021 23:56:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:33,040 INFO 212.121.177.181 - - [20/Jan/2021 23:56:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:36,051 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-20 23:56:36,089 INFO  * Restarting with stat
+2021-01-20 23:56:37,256 WARNING  * Debugger is active!
+2021-01-20 23:56:37,263 INFO  * Debugger PIN: 314-794-097
+2021-01-20 23:56:37,448 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-20 23:56:38,037 INFO 212.121.177.181 - - [20/Jan/2021 23:56:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:43,050 INFO 212.121.177.181 - - [20/Jan/2021 23:56:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:46,873 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-20 23:56:46,909 INFO  * Restarting with stat
+2021-01-20 23:56:48,111 WARNING  * Debugger is active!
+2021-01-20 23:56:48,118 INFO  * Debugger PIN: 314-794-097
+2021-01-20 23:56:48,300 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-20 23:56:49,040 INFO 212.121.177.181 - - [20/Jan/2021 23:56:49] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:53,045 INFO 212.121.177.181 - - [20/Jan/2021 23:56:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:56:58,045 INFO 212.121.177.181 - - [20/Jan/2021 23:56:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:03,041 INFO 212.121.177.181 - - [20/Jan/2021 23:57:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:08,041 INFO 212.121.177.181 - - [20/Jan/2021 23:57:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:13,043 INFO 212.121.177.181 - - [20/Jan/2021 23:57:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:18,043 INFO 212.121.177.181 - - [20/Jan/2021 23:57:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:23,042 INFO 212.121.177.181 - - [20/Jan/2021 23:57:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:28,042 INFO 212.121.177.181 - - [20/Jan/2021 23:57:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:33,043 INFO 212.121.177.181 - - [20/Jan/2021 23:57:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:38,042 INFO 212.121.177.181 - - [20/Jan/2021 23:57:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:43,044 INFO 212.121.177.181 - - [20/Jan/2021 23:57:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:48,044 INFO 212.121.177.181 - - [20/Jan/2021 23:57:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:53,045 INFO 212.121.177.181 - - [20/Jan/2021 23:57:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:57:58,045 INFO 212.121.177.181 - - [20/Jan/2021 23:57:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:04,055 INFO 212.121.177.181 - - [20/Jan/2021 23:58:04] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:08,045 INFO 212.121.177.181 - - [20/Jan/2021 23:58:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:13,047 INFO 212.121.177.181 - - [20/Jan/2021 23:58:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:18,048 INFO 212.121.177.181 - - [20/Jan/2021 23:58:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:23,048 INFO 212.121.177.181 - - [20/Jan/2021 23:58:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:28,048 INFO 212.121.177.181 - - [20/Jan/2021 23:58:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:33,052 INFO 212.121.177.181 - - [20/Jan/2021 23:58:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:38,053 INFO 212.121.177.181 - - [20/Jan/2021 23:58:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:43,055 INFO 212.121.177.181 - - [20/Jan/2021 23:58:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:48,053 INFO 212.121.177.181 - - [20/Jan/2021 23:58:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:53,054 INFO 212.121.177.181 - - [20/Jan/2021 23:58:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:58:58,053 INFO 212.121.177.181 - - [20/Jan/2021 23:58:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:03,054 INFO 212.121.177.181 - - [20/Jan/2021 23:59:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:08,055 INFO 212.121.177.181 - - [20/Jan/2021 23:59:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:13,055 INFO 212.121.177.181 - - [20/Jan/2021 23:59:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:18,056 INFO 212.121.177.181 - - [20/Jan/2021 23:59:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:23,055 INFO 212.121.177.181 - - [20/Jan/2021 23:59:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:28,057 INFO 212.121.177.181 - - [20/Jan/2021 23:59:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:33,057 INFO 212.121.177.181 - - [20/Jan/2021 23:59:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:38,057 INFO 212.121.177.181 - - [20/Jan/2021 23:59:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:43,060 INFO 212.121.177.181 - - [20/Jan/2021 23:59:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:48,060 INFO 212.121.177.181 - - [20/Jan/2021 23:59:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:53,060 INFO 212.121.177.181 - - [20/Jan/2021 23:59:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-20 23:59:58,059 INFO 212.121.177.181 - - [20/Jan/2021 23:59:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:03,061 INFO 212.121.177.181 - - [21/Jan/2021 00:00:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:08,061 INFO 212.121.177.181 - - [21/Jan/2021 00:00:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:13,061 INFO 212.121.177.181 - - [21/Jan/2021 00:00:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:18,063 INFO 212.121.177.181 - - [21/Jan/2021 00:00:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:23,063 INFO 212.121.177.181 - - [21/Jan/2021 00:00:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:28,065 INFO 212.121.177.181 - - [21/Jan/2021 00:00:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:33,062 INFO 212.121.177.181 - - [21/Jan/2021 00:00:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:38,065 INFO 212.121.177.181 - - [21/Jan/2021 00:00:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:43,064 INFO 212.121.177.181 - - [21/Jan/2021 00:00:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:48,065 INFO 212.121.177.181 - - [21/Jan/2021 00:00:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:53,069 INFO 212.121.177.181 - - [21/Jan/2021 00:00:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:00:58,065 INFO 212.121.177.181 - - [21/Jan/2021 00:00:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:03,065 INFO 212.121.177.181 - - [21/Jan/2021 00:01:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:08,066 INFO 212.121.177.181 - - [21/Jan/2021 00:01:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:13,070 INFO 212.121.177.181 - - [21/Jan/2021 00:01:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:18,069 INFO 212.121.177.181 - - [21/Jan/2021 00:01:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:23,068 INFO 212.121.177.181 - - [21/Jan/2021 00:01:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:28,069 INFO 212.121.177.181 - - [21/Jan/2021 00:01:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:33,068 INFO 212.121.177.181 - - [21/Jan/2021 00:01:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:38,073 INFO 212.121.177.181 - - [21/Jan/2021 00:01:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:43,073 INFO 212.121.177.181 - - [21/Jan/2021 00:01:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:48,076 INFO 212.121.177.181 - - [21/Jan/2021 00:01:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:53,071 INFO 212.121.177.181 - - [21/Jan/2021 00:01:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:01:58,075 INFO 212.121.177.181 - - [21/Jan/2021 00:01:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:03,073 INFO 212.121.177.181 - - [21/Jan/2021 00:02:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:08,078 INFO 212.121.177.181 - - [21/Jan/2021 00:02:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:13,074 INFO 212.121.177.181 - - [21/Jan/2021 00:02:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:18,075 INFO 212.121.177.181 - - [21/Jan/2021 00:02:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:23,079 INFO 212.121.177.181 - - [21/Jan/2021 00:02:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:28,077 INFO 212.121.177.181 - - [21/Jan/2021 00:02:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:33,081 INFO 212.121.177.181 - - [21/Jan/2021 00:02:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:38,078 INFO 212.121.177.181 - - [21/Jan/2021 00:02:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:43,078 INFO 212.121.177.181 - - [21/Jan/2021 00:02:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:48,080 INFO 212.121.177.181 - - [21/Jan/2021 00:02:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:53,079 INFO 212.121.177.181 - - [21/Jan/2021 00:02:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:02:58,079 INFO 212.121.177.181 - - [21/Jan/2021 00:02:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:03,079 INFO 212.121.177.181 - - [21/Jan/2021 00:03:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:08,084 INFO 212.121.177.181 - - [21/Jan/2021 00:03:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:13,080 INFO 212.121.177.181 - - [21/Jan/2021 00:03:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:18,082 INFO 212.121.177.181 - - [21/Jan/2021 00:03:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:23,080 INFO 212.121.177.181 - - [21/Jan/2021 00:03:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:28,083 INFO 212.121.177.181 - - [21/Jan/2021 00:03:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:33,082 INFO 212.121.177.181 - - [21/Jan/2021 00:03:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:38,084 INFO 212.121.177.181 - - [21/Jan/2021 00:03:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:43,127 INFO 212.121.177.181 - - [21/Jan/2021 00:03:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:48,085 INFO 212.121.177.181 - - [21/Jan/2021 00:03:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:53,084 INFO 212.121.177.181 - - [21/Jan/2021 00:03:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:03:58,085 INFO 212.121.177.181 - - [21/Jan/2021 00:03:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:03,084 INFO 212.121.177.181 - - [21/Jan/2021 00:04:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:08,086 INFO 212.121.177.181 - - [21/Jan/2021 00:04:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:13,088 INFO 212.121.177.181 - - [21/Jan/2021 00:04:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:18,086 INFO 212.121.177.181 - - [21/Jan/2021 00:04:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:23,089 INFO 212.121.177.181 - - [21/Jan/2021 00:04:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:28,093 INFO 212.121.177.181 - - [21/Jan/2021 00:04:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:33,089 INFO 212.121.177.181 - - [21/Jan/2021 00:04:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:35,904 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:04:35,953 INFO  * Restarting with stat
+2021-01-21 00:04:37,223 WARNING  * Debugger is active!
+2021-01-21 00:04:37,230 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:04:37,415 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:04:38,090 INFO 212.121.177.181 - - [21/Jan/2021 00:04:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:43,100 INFO 212.121.177.181 - - [21/Jan/2021 00:04:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:48,092 INFO 212.121.177.181 - - [21/Jan/2021 00:04:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:53,093 INFO 212.121.177.181 - - [21/Jan/2021 00:04:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:04:56,323 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:04:56,389 INFO  * Restarting with stat
+2021-01-21 00:09:20,331 INFO  * Restarting with stat
+2021-01-21 00:09:21,535 WARNING  * Debugger is active!
+2021-01-21 00:09:21,544 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:09:21,712 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:09:22,447 INFO 127.0.0.1 - - [21/Jan/2021 00:09:22] "[35m[1mPOST /forward HTTP/1.1[0m" 500 -
+2021-01-21 00:09:23,122 INFO 212.121.177.181 - - [21/Jan/2021 00:09:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:09:28,125 INFO 212.121.177.181 - - [21/Jan/2021 00:09:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:09:33,122 INFO 212.121.177.181 - - [21/Jan/2021 00:09:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:09:38,121 INFO 212.121.177.181 - - [21/Jan/2021 00:09:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:09:43,122 INFO 212.121.177.181 - - [21/Jan/2021 00:09:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:09:48,123 INFO 212.121.177.181 - - [21/Jan/2021 00:09:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:09:53,123 INFO 212.121.177.181 - - [21/Jan/2021 00:09:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:09:58,128 INFO 212.121.177.181 - - [21/Jan/2021 00:09:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:03,123 INFO 212.121.177.181 - - [21/Jan/2021 00:10:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:08,128 INFO 212.121.177.181 - - [21/Jan/2021 00:10:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:13,129 INFO 212.121.177.181 - - [21/Jan/2021 00:10:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:15,885 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:10:15,930 INFO  * Restarting with stat
+2021-01-21 00:10:17,110 WARNING  * Debugger is active!
+2021-01-21 00:10:17,117 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:10:17,294 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:10:18,126 INFO 212.121.177.181 - - [21/Jan/2021 00:10:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:23,126 INFO 212.121.177.181 - - [21/Jan/2021 00:10:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:28,137 INFO 212.121.177.181 - - [21/Jan/2021 00:10:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:33,127 INFO 212.121.177.181 - - [21/Jan/2021 00:10:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:38,127 INFO 212.121.177.181 - - [21/Jan/2021 00:10:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:43,128 INFO 212.121.177.181 - - [21/Jan/2021 00:10:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:47,857 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:10:47,921 INFO  * Restarting with stat
+2021-01-21 00:10:49,335 WARNING  * Debugger is active!
+2021-01-21 00:10:49,342 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:10:49,513 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:10:53,153 INFO 212.121.177.181 - - [21/Jan/2021 00:10:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:58,129 INFO 212.121.177.181 - - [21/Jan/2021 00:10:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:10:59,969 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:11:00,012 INFO  * Restarting with stat
+2021-01-21 00:11:01,327 WARNING  * Debugger is active!
+2021-01-21 00:11:01,335 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:11:01,507 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:11:03,138 INFO 212.121.177.181 - - [21/Jan/2021 00:11:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:08,133 INFO 212.121.177.181 - - [21/Jan/2021 00:11:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:13,140 INFO 212.121.177.181 - - [21/Jan/2021 00:11:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:18,133 INFO 212.121.177.181 - - [21/Jan/2021 00:11:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:23,133 INFO 212.121.177.181 - - [21/Jan/2021 00:11:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:28,133 INFO 212.121.177.181 - - [21/Jan/2021 00:11:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:33,133 INFO 212.121.177.181 - - [21/Jan/2021 00:11:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:38,133 INFO 212.121.177.181 - - [21/Jan/2021 00:11:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:43,164 INFO 212.121.177.181 - - [21/Jan/2021 00:11:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:48,137 INFO 212.121.177.181 - - [21/Jan/2021 00:11:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:53,137 INFO 212.121.177.181 - - [21/Jan/2021 00:11:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:11:58,139 INFO 212.121.177.181 - - [21/Jan/2021 00:11:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:03,139 INFO 212.121.177.181 - - [21/Jan/2021 00:12:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:08,139 INFO 212.121.177.181 - - [21/Jan/2021 00:12:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:13,138 INFO 212.121.177.181 - - [21/Jan/2021 00:12:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:18,138 INFO 212.121.177.181 - - [21/Jan/2021 00:12:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:23,137 INFO 212.121.177.181 - - [21/Jan/2021 00:12:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:28,139 INFO 212.121.177.181 - - [21/Jan/2021 00:12:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:33,139 INFO 212.121.177.181 - - [21/Jan/2021 00:12:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:38,142 INFO 212.121.177.181 - - [21/Jan/2021 00:12:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:43,140 INFO 212.121.177.181 - - [21/Jan/2021 00:12:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:48,140 INFO 212.121.177.181 - - [21/Jan/2021 00:12:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:53,142 INFO 212.121.177.181 - - [21/Jan/2021 00:12:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:12:58,142 INFO 212.121.177.181 - - [21/Jan/2021 00:12:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:03,144 INFO 212.121.177.181 - - [21/Jan/2021 00:13:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:08,142 INFO 212.121.177.181 - - [21/Jan/2021 00:13:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:13,142 INFO 212.121.177.181 - - [21/Jan/2021 00:13:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:18,145 INFO 212.121.177.181 - - [21/Jan/2021 00:13:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:23,144 INFO 212.121.177.181 - - [21/Jan/2021 00:13:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:28,145 INFO 212.121.177.181 - - [21/Jan/2021 00:13:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:33,145 INFO 212.121.177.181 - - [21/Jan/2021 00:13:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:38,148 INFO 212.121.177.181 - - [21/Jan/2021 00:13:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:43,150 INFO 212.121.177.181 - - [21/Jan/2021 00:13:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:48,200 INFO 212.121.177.181 - - [21/Jan/2021 00:13:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:53,150 INFO 212.121.177.181 - - [21/Jan/2021 00:13:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:13:58,150 INFO 212.121.177.181 - - [21/Jan/2021 00:13:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:03,151 INFO 212.121.177.181 - - [21/Jan/2021 00:14:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:08,151 INFO 212.121.177.181 - - [21/Jan/2021 00:14:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:13,149 INFO 212.121.177.181 - - [21/Jan/2021 00:14:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:13,472 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:14:13,524 INFO  * Restarting with stat
+2021-01-21 00:14:14,829 WARNING  * Debugger is active!
+2021-01-21 00:14:14,837 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:14:15,022 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:14:18,157 INFO 212.121.177.181 - - [21/Jan/2021 00:14:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:23,152 INFO 212.121.177.181 - - [21/Jan/2021 00:14:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:28,156 INFO 212.121.177.181 - - [21/Jan/2021 00:14:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:33,155 INFO 212.121.177.181 - - [21/Jan/2021 00:14:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:38,153 INFO 212.121.177.181 - - [21/Jan/2021 00:14:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:43,159 INFO 212.121.177.181 - - [21/Jan/2021 00:14:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:48,156 INFO 212.121.177.181 - - [21/Jan/2021 00:14:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:53,156 INFO 212.121.177.181 - - [21/Jan/2021 00:14:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:14:58,171 INFO 212.121.177.181 - - [21/Jan/2021 00:14:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:03,155 INFO 212.121.177.181 - - [21/Jan/2021 00:15:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:08,154 INFO 212.121.177.181 - - [21/Jan/2021 00:15:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:13,156 INFO 212.121.177.181 - - [21/Jan/2021 00:15:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:14,092 ERROR request.get_data: b'[{"time":1611177810,"source":"nginx-controller","sourcetype":"security","host":"10.0.0.43","event":{"signature_ids":"200001475,200000098","version":"1.0","description":"Request rejected from 52.247.48.116 to app_f5-bigip-api.f5app.dev/adc_main.  Attack types: Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","http.remote_addr":"52.247.48.116","http.server_port":"443","violation_rating":"MOST_LIKELY_ATTACK","is_truncated":"false","signature_names":"XSS script tag end (Parameter) (2),XSS script tag (Parameter)","component":"adc_main","request_outcome":"REJECTED","signature_cves":"","http.request_method":"GET","correlation_id":"547d419559df7cd2a98682405fce8d6d","request":"GET /v1/mgmt/tm/asm/policies?=fullPath%20eq%20/test1/app1/waf_policy-app1%3Cscript%3E HTTP/1.1\\\\r\\\\nUser-Agent: fasthttp\\\\r\\\\nHost: f5-bigip-api.f5app.dev:443\\\\r\\\\n\\\\r\\\\n","level":"INFO","app":"app_f5-bigip-api.f5app.dev","gateway":"gw_f5-bigip-api","http.uri":"/v1/mgmt/tm/asm/policies","http.response_code":"0","http.hostname":"nginxwaf000000","type":"security violation","http.server_addr":"0.0.0.0","support_id":"12058970043145809587","policy_name":"/Common/NAPBlockingDefaultPolicy","violations":"Illegal meta character in value,Attack signature detected,Violation Rating Threat detected","environment":"env_north_f5","request_outcome_reason":"SECURITY_WAF_VIOLATION","http.remote_port":"42622","attack_types":"Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","sub_violations":"","x_forwarded_for_header_value":""}}]'
+2021-01-21 00:15:14,093 ERROR CONTENT_TYPE: application/json
+2021-01-21 00:15:14,096 INFO 127.0.0.1 - - [21/Jan/2021 00:15:14] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:18,167 INFO 212.121.177.181 - - [21/Jan/2021 00:15:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:23,158 INFO 212.121.177.181 - - [21/Jan/2021 00:15:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:28,157 INFO 212.121.177.181 - - [21/Jan/2021 00:15:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:31,601 ERROR request.get_data: b''
+2021-01-21 00:15:31,602 ERROR CONTENT_TYPE: application/x-www-form-urlencoded
+2021-01-21 00:15:31,602 ERROR 
+2021-01-21 00:15:31,604 INFO 127.0.0.1 - - [21/Jan/2021 00:15:31] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:33,158 INFO 212.121.177.181 - - [21/Jan/2021 00:15:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:38,159 INFO 212.121.177.181 - - [21/Jan/2021 00:15:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:43,158 INFO 212.121.177.181 - - [21/Jan/2021 00:15:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:48,158 INFO 212.121.177.181 - - [21/Jan/2021 00:15:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:15:52,723 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:15:52,776 INFO  * Restarting with stat
+2021-01-21 00:15:54,025 WARNING  * Debugger is active!
+2021-01-21 00:15:54,032 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:15:54,217 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:15:58,163 INFO 212.121.177.181 - - [21/Jan/2021 00:15:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:03,171 INFO 212.121.177.181 - - [21/Jan/2021 00:16:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:08,159 INFO 212.121.177.181 - - [21/Jan/2021 00:16:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:13,163 INFO 212.121.177.181 - - [21/Jan/2021 00:16:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:18,165 INFO 212.121.177.181 - - [21/Jan/2021 00:16:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:23,163 INFO 212.121.177.181 - - [21/Jan/2021 00:16:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:28,162 INFO 212.121.177.181 - - [21/Jan/2021 00:16:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:33,164 INFO 212.121.177.181 - - [21/Jan/2021 00:16:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:38,162 INFO 212.121.177.181 - - [21/Jan/2021 00:16:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:43,163 INFO 212.121.177.181 - - [21/Jan/2021 00:16:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:48,166 INFO 212.121.177.181 - - [21/Jan/2021 00:16:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:53,166 INFO 212.121.177.181 - - [21/Jan/2021 00:16:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:16:58,166 INFO 212.121.177.181 - - [21/Jan/2021 00:16:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:03,167 INFO 212.121.177.181 - - [21/Jan/2021 00:17:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:08,168 INFO 212.121.177.181 - - [21/Jan/2021 00:17:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:13,169 INFO 212.121.177.181 - - [21/Jan/2021 00:17:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:18,170 INFO 212.121.177.181 - - [21/Jan/2021 00:17:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:23,170 INFO 212.121.177.181 - - [21/Jan/2021 00:17:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:28,171 INFO 212.121.177.181 - - [21/Jan/2021 00:17:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:33,170 INFO 212.121.177.181 - - [21/Jan/2021 00:17:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:38,170 INFO 212.121.177.181 - - [21/Jan/2021 00:17:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:43,170 INFO 212.121.177.181 - - [21/Jan/2021 00:17:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:48,171 INFO 212.121.177.181 - - [21/Jan/2021 00:17:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:53,177 INFO 212.121.177.181 - - [21/Jan/2021 00:17:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:17:58,172 INFO 212.121.177.181 - - [21/Jan/2021 00:17:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:03,179 INFO 212.121.177.181 - - [21/Jan/2021 00:18:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:08,175 INFO 212.121.177.181 - - [21/Jan/2021 00:18:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:13,176 INFO 212.121.177.181 - - [21/Jan/2021 00:18:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:18,174 INFO 212.121.177.181 - - [21/Jan/2021 00:18:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:23,175 INFO 212.121.177.181 - - [21/Jan/2021 00:18:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:28,174 INFO 212.121.177.181 - - [21/Jan/2021 00:18:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:33,187 INFO 212.121.177.181 - - [21/Jan/2021 00:18:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:38,174 INFO 212.121.177.181 - - [21/Jan/2021 00:18:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:43,177 INFO 212.121.177.181 - - [21/Jan/2021 00:18:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:48,177 INFO 212.121.177.181 - - [21/Jan/2021 00:18:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:49,158 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:18:49,212 INFO  * Restarting with stat
+2021-01-21 00:18:50,508 WARNING  * Debugger is active!
+2021-01-21 00:18:50,517 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:18:50,702 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:18:53,177 INFO 212.121.177.181 - - [21/Jan/2021 00:18:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:18:58,180 INFO 212.121.177.181 - - [21/Jan/2021 00:18:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:03,194 INFO 212.121.177.181 - - [21/Jan/2021 00:19:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:08,179 INFO 212.121.177.181 - - [21/Jan/2021 00:19:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:13,185 INFO 212.121.177.181 - - [21/Jan/2021 00:19:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:18,180 INFO 212.121.177.181 - - [21/Jan/2021 00:19:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:23,181 INFO 212.121.177.181 - - [21/Jan/2021 00:19:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:28,180 INFO 212.121.177.181 - - [21/Jan/2021 00:19:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:33,184 INFO 212.121.177.181 - - [21/Jan/2021 00:19:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:38,181 INFO 212.121.177.181 - - [21/Jan/2021 00:19:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:43,181 INFO 212.121.177.181 - - [21/Jan/2021 00:19:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:48,185 INFO 212.121.177.181 - - [21/Jan/2021 00:19:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:53,185 INFO 212.121.177.181 - - [21/Jan/2021 00:19:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:19:58,186 INFO 212.121.177.181 - - [21/Jan/2021 00:19:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:03,187 INFO 212.121.177.181 - - [21/Jan/2021 00:20:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:08,188 INFO 212.121.177.181 - - [21/Jan/2021 00:20:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:13,189 INFO 212.121.177.181 - - [21/Jan/2021 00:20:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:16,524 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:20:16,575 INFO  * Restarting with stat
+2021-01-21 00:20:17,915 WARNING  * Debugger is active!
+2021-01-21 00:20:17,923 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:20:18,106 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:20:18,189 INFO 212.121.177.181 - - [21/Jan/2021 00:20:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:22,837 INFO 127.0.0.1 - - [21/Jan/2021 00:20:22] "[35m[1mPOST /forward HTTP/1.1[0m" 500 -
+2021-01-21 00:20:23,200 INFO 212.121.177.181 - - [21/Jan/2021 00:20:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:28,189 INFO 212.121.177.181 - - [21/Jan/2021 00:20:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:33,189 INFO 212.121.177.181 - - [21/Jan/2021 00:20:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:38,189 INFO 212.121.177.181 - - [21/Jan/2021 00:20:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:43,192 INFO 212.121.177.181 - - [21/Jan/2021 00:20:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:48,189 INFO 212.121.177.181 - - [21/Jan/2021 00:20:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:53,193 INFO 212.121.177.181 - - [21/Jan/2021 00:20:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:20:58,189 INFO 212.121.177.181 - - [21/Jan/2021 00:20:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:21:03,195 INFO 212.121.177.181 - - [21/Jan/2021 00:21:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:21:06,899 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:21:06,938 INFO  * Restarting with stat
+2021-01-21 00:21:08,102 WARNING  * Debugger is active!
+2021-01-21 00:21:08,109 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:21:08,290 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:21:09,195 INFO 212.121.177.181 - - [21/Jan/2021 00:21:09] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:21:13,191 INFO 212.121.177.181 - - [21/Jan/2021 00:21:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:21:18,203 INFO 212.121.177.181 - - [21/Jan/2021 00:21:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:21:23,194 INFO 212.121.177.181 - - [21/Jan/2021 00:21:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:21:27,404 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:21:27,455 INFO  * Restarting with stat
+2021-01-21 00:21:47,849 INFO  * Restarting with stat
+2021-01-21 00:21:49,121 WARNING  * Debugger is active!
+2021-01-21 00:21:49,128 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:21:49,296 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:21:49,811 INFO 127.0.0.1 - - [21/Jan/2021 00:21:49] "[35m[1mPOST /forward HTTP/1.1[0m" 500 -
+2021-01-21 00:21:53,210 INFO 212.121.177.181 - - [21/Jan/2021 00:21:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:21:58,200 INFO 212.121.177.181 - - [21/Jan/2021 00:21:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:03,196 INFO 212.121.177.181 - - [21/Jan/2021 00:22:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:05,158 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:22:05,195 INFO  * Restarting with stat
+2021-01-21 00:22:06,468 WARNING  * Debugger is active!
+2021-01-21 00:22:06,476 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:22:06,655 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:22:08,206 INFO 212.121.177.181 - - [21/Jan/2021 00:22:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:13,200 INFO 212.121.177.181 - - [21/Jan/2021 00:22:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:18,196 INFO 212.121.177.181 - - [21/Jan/2021 00:22:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:23,202 INFO 212.121.177.181 - - [21/Jan/2021 00:22:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:28,202 INFO 212.121.177.181 - - [21/Jan/2021 00:22:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:33,200 INFO 212.121.177.181 - - [21/Jan/2021 00:22:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:38,201 INFO 212.121.177.181 - - [21/Jan/2021 00:22:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:43,202 INFO 212.121.177.181 - - [21/Jan/2021 00:22:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:48,208 INFO 212.121.177.181 - - [21/Jan/2021 00:22:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:53,202 INFO 212.121.177.181 - - [21/Jan/2021 00:22:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:22:58,203 INFO 212.121.177.181 - - [21/Jan/2021 00:22:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:03,202 INFO 212.121.177.181 - - [21/Jan/2021 00:23:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:08,203 INFO 212.121.177.181 - - [21/Jan/2021 00:23:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:13,208 INFO 212.121.177.181 - - [21/Jan/2021 00:23:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:18,204 INFO 212.121.177.181 - - [21/Jan/2021 00:23:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:23,207 INFO 212.121.177.181 - - [21/Jan/2021 00:23:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:28,204 INFO 212.121.177.181 - - [21/Jan/2021 00:23:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:33,205 INFO 212.121.177.181 - - [21/Jan/2021 00:23:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:38,205 INFO 212.121.177.181 - - [21/Jan/2021 00:23:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:43,206 INFO 212.121.177.181 - - [21/Jan/2021 00:23:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:48,207 INFO 212.121.177.181 - - [21/Jan/2021 00:23:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:53,223 INFO 212.121.177.181 - - [21/Jan/2021 00:23:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:23:57,045 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:23:57,091 INFO  * Restarting with stat
+2021-01-21 00:23:58,407 WARNING  * Debugger is active!
+2021-01-21 00:23:58,416 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:23:58,619 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:23:59,214 INFO 212.121.177.181 - - [21/Jan/2021 00:23:59] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:03,245 INFO 212.121.177.181 - - [21/Jan/2021 00:24:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:08,210 INFO 212.121.177.181 - - [21/Jan/2021 00:24:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:13,210 INFO 212.121.177.181 - - [21/Jan/2021 00:24:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:18,209 INFO 212.121.177.181 - - [21/Jan/2021 00:24:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:23,209 INFO 212.121.177.181 - - [21/Jan/2021 00:24:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:28,211 INFO 212.121.177.181 - - [21/Jan/2021 00:24:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:33,210 INFO 212.121.177.181 - - [21/Jan/2021 00:24:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:38,212 INFO 212.121.177.181 - - [21/Jan/2021 00:24:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:43,211 INFO 212.121.177.181 - - [21/Jan/2021 00:24:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:48,214 INFO 212.121.177.181 - - [21/Jan/2021 00:24:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:53,212 INFO 212.121.177.181 - - [21/Jan/2021 00:24:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:24:58,213 INFO 212.121.177.181 - - [21/Jan/2021 00:24:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:03,214 INFO 212.121.177.181 - - [21/Jan/2021 00:25:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:08,215 INFO 212.121.177.181 - - [21/Jan/2021 00:25:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:13,215 INFO 212.121.177.181 - - [21/Jan/2021 00:25:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:18,217 INFO 212.121.177.181 - - [21/Jan/2021 00:25:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:23,215 INFO 212.121.177.181 - - [21/Jan/2021 00:25:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:28,218 INFO 212.121.177.181 - - [21/Jan/2021 00:25:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:33,218 INFO 212.121.177.181 - - [21/Jan/2021 00:25:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:38,218 INFO 212.121.177.181 - - [21/Jan/2021 00:25:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:43,220 INFO 212.121.177.181 - - [21/Jan/2021 00:25:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:48,220 INFO 212.121.177.181 - - [21/Jan/2021 00:25:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:53,223 INFO 212.121.177.181 - - [21/Jan/2021 00:25:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:25:58,220 INFO 212.121.177.181 - - [21/Jan/2021 00:25:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:03,224 INFO 212.121.177.181 - - [21/Jan/2021 00:26:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:08,222 INFO 212.121.177.181 - - [21/Jan/2021 00:26:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:13,222 INFO 212.121.177.181 - - [21/Jan/2021 00:26:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:18,222 INFO 212.121.177.181 - - [21/Jan/2021 00:26:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:23,221 INFO 212.121.177.181 - - [21/Jan/2021 00:26:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:28,224 INFO 212.121.177.181 - - [21/Jan/2021 00:26:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:33,224 INFO 212.121.177.181 - - [21/Jan/2021 00:26:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:38,223 INFO 212.121.177.181 - - [21/Jan/2021 00:26:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:43,225 INFO 212.121.177.181 - - [21/Jan/2021 00:26:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:48,228 INFO 212.121.177.181 - - [21/Jan/2021 00:26:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:53,225 INFO 212.121.177.181 - - [21/Jan/2021 00:26:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:26:58,225 INFO 212.121.177.181 - - [21/Jan/2021 00:26:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:03,226 INFO 212.121.177.181 - - [21/Jan/2021 00:27:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:08,226 INFO 212.121.177.181 - - [21/Jan/2021 00:27:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:13,227 INFO 212.121.177.181 - - [21/Jan/2021 00:27:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:18,227 INFO 212.121.177.181 - - [21/Jan/2021 00:27:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:23,228 INFO 212.121.177.181 - - [21/Jan/2021 00:27:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:28,230 INFO 212.121.177.181 - - [21/Jan/2021 00:27:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:28,757 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:27:28,809 INFO  * Restarting with stat
+2021-01-21 00:27:30,084 WARNING  * Debugger is active!
+2021-01-21 00:27:30,092 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:27:30,264 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:27:33,233 INFO 212.121.177.181 - - [21/Jan/2021 00:27:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:38,229 INFO 212.121.177.181 - - [21/Jan/2021 00:27:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:43,230 INFO 212.121.177.181 - - [21/Jan/2021 00:27:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:48,229 INFO 212.121.177.181 - - [21/Jan/2021 00:27:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:53,169 INFO 127.0.0.1 - - [21/Jan/2021 00:27:53] "[31m[1mPOST /forward HTTP/1.1[0m" 400 -
+2021-01-21 00:27:53,248 INFO 212.121.177.181 - - [21/Jan/2021 00:27:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:27:58,232 INFO 212.121.177.181 - - [21/Jan/2021 00:27:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:03,246 INFO 212.121.177.181 - - [21/Jan/2021 00:28:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:04,582 INFO 127.0.0.1 - - [21/Jan/2021 00:28:04] "[31m[1mPOST /forward HTTP/1.1[0m" 400 -
+2021-01-21 00:28:08,233 INFO 212.121.177.181 - - [21/Jan/2021 00:28:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:13,233 INFO 212.121.177.181 - - [21/Jan/2021 00:28:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:18,233 INFO 212.121.177.181 - - [21/Jan/2021 00:28:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:23,231 INFO 212.121.177.181 - - [21/Jan/2021 00:28:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:28,235 INFO 212.121.177.181 - - [21/Jan/2021 00:28:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:31,797 INFO 127.0.0.1 - - [21/Jan/2021 00:28:31] "[31m[1mPOST /forward HTTP/1.1[0m" 400 -
+2021-01-21 00:28:33,236 INFO 212.121.177.181 - - [21/Jan/2021 00:28:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:38,233 INFO 212.121.177.181 - - [21/Jan/2021 00:28:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:43,236 INFO 212.121.177.181 - - [21/Jan/2021 00:28:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:48,236 INFO 212.121.177.181 - - [21/Jan/2021 00:28:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:53,235 INFO 212.121.177.181 - - [21/Jan/2021 00:28:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:28:58,237 INFO 212.121.177.181 - - [21/Jan/2021 00:28:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:03,236 INFO 212.121.177.181 - - [21/Jan/2021 00:29:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:08,239 INFO 212.121.177.181 - - [21/Jan/2021 00:29:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:13,237 INFO 212.121.177.181 - - [21/Jan/2021 00:29:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:18,237 INFO 212.121.177.181 - - [21/Jan/2021 00:29:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:23,239 INFO 212.121.177.181 - - [21/Jan/2021 00:29:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:28,239 INFO 212.121.177.181 - - [21/Jan/2021 00:29:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:33,238 INFO 212.121.177.181 - - [21/Jan/2021 00:29:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:38,255 INFO 212.121.177.181 - - [21/Jan/2021 00:29:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:43,242 INFO 212.121.177.181 - - [21/Jan/2021 00:29:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:48,243 INFO 212.121.177.181 - - [21/Jan/2021 00:29:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:53,243 INFO 212.121.177.181 - - [21/Jan/2021 00:29:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:29:58,241 INFO 212.121.177.181 - - [21/Jan/2021 00:29:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:03,240 INFO 212.121.177.181 - - [21/Jan/2021 00:30:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:08,252 INFO 212.121.177.181 - - [21/Jan/2021 00:30:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:13,244 INFO 212.121.177.181 - - [21/Jan/2021 00:30:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:18,243 INFO 212.121.177.181 - - [21/Jan/2021 00:30:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:23,244 INFO 212.121.177.181 - - [21/Jan/2021 00:30:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:28,244 INFO 212.121.177.181 - - [21/Jan/2021 00:30:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:33,246 INFO 212.121.177.181 - - [21/Jan/2021 00:30:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:38,250 INFO 212.121.177.181 - - [21/Jan/2021 00:30:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:43,246 INFO 212.121.177.181 - - [21/Jan/2021 00:30:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:48,246 INFO 212.121.177.181 - - [21/Jan/2021 00:30:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:53,247 INFO 212.121.177.181 - - [21/Jan/2021 00:30:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:30:58,247 INFO 212.121.177.181 - - [21/Jan/2021 00:30:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:31:03,247 INFO 212.121.177.181 - - [21/Jan/2021 00:31:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:31:08,251 INFO 212.121.177.181 - - [21/Jan/2021 00:31:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:31:13,249 INFO 212.121.177.181 - - [21/Jan/2021 00:31:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:31:18,249 INFO 212.121.177.181 - - [21/Jan/2021 00:31:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:31:23,248 INFO 212.121.177.181 - - [21/Jan/2021 00:31:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:31:58,697 INFO  * Restarting with stat
+2021-01-21 00:31:59,876 WARNING  * Debugger is active!
+2021-01-21 00:31:59,884 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:32:00,065 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:32:03,263 INFO 212.121.177.181 - - [21/Jan/2021 00:32:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:32:08,254 INFO 212.121.177.181 - - [21/Jan/2021 00:32:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:32:13,265 INFO 212.121.177.181 - - [21/Jan/2021 00:32:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:32:18,256 INFO 212.121.177.181 - - [21/Jan/2021 00:32:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:32:23,255 INFO 212.121.177.181 - - [21/Jan/2021 00:32:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:32:28,256 INFO 212.121.177.181 - - [21/Jan/2021 00:32:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:33:32,426 INFO  * Restarting with stat
+2021-01-21 00:33:33,620 WARNING  * Debugger is active!
+2021-01-21 00:33:33,627 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:33:33,818 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:33:34,264 INFO 212.121.177.181 - - [21/Jan/2021 00:33:34] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:33:38,263 INFO 212.121.177.181 - - [21/Jan/2021 00:33:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:33:43,262 INFO 212.121.177.181 - - [21/Jan/2021 00:33:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:34:16,465 INFO  * Restarting with stat
+2021-01-21 00:34:17,626 WARNING  * Debugger is active!
+2021-01-21 00:34:17,633 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:34:17,825 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:34:18,270 INFO 212.121.177.181 - - [21/Jan/2021 00:34:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:34:23,265 INFO 212.121.177.181 - - [21/Jan/2021 00:34:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:34:28,278 INFO 212.121.177.181 - - [21/Jan/2021 00:34:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:34:54,167 INFO  * Restarting with stat
+2021-01-21 00:34:55,358 WARNING  * Debugger is active!
+2021-01-21 00:34:55,365 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:34:55,542 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:34:58,269 INFO 212.121.177.181 - - [21/Jan/2021 00:34:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:01,893 ERROR request.get_data: b''
+2021-01-21 00:35:01,893 ERROR CONTENT_TYPE: application/x-www-form-urlencoded
+2021-01-21 00:35:01,893 ERROR 
+2021-01-21 00:35:01,895 INFO 127.0.0.1 - - [21/Jan/2021 00:35:01] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:03,270 INFO 212.121.177.181 - - [21/Jan/2021 00:35:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:08,275 INFO 212.121.177.181 - - [21/Jan/2021 00:35:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:13,272 INFO 212.121.177.181 - - [21/Jan/2021 00:35:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:18,273 INFO 212.121.177.181 - - [21/Jan/2021 00:35:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:23,309 INFO 212.121.177.181 - - [21/Jan/2021 00:35:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:28,273 INFO 212.121.177.181 - - [21/Jan/2021 00:35:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:33,273 INFO 212.121.177.181 - - [21/Jan/2021 00:35:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:38,288 INFO 212.121.177.181 - - [21/Jan/2021 00:35:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:40,004 INFO 127.0.0.1 - - [21/Jan/2021 00:35:40] "[35m[1mPOST /forward HTTP/1.1[0m" 500 -
+2021-01-21 00:35:43,274 INFO 212.121.177.181 - - [21/Jan/2021 00:35:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:48,275 INFO 212.121.177.181 - - [21/Jan/2021 00:35:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:53,273 INFO 212.121.177.181 - - [21/Jan/2021 00:35:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:35:58,275 INFO 212.121.177.181 - - [21/Jan/2021 00:35:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:03,278 INFO 212.121.177.181 - - [21/Jan/2021 00:36:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:03,584 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:36:03,629 INFO  * Restarting with stat
+2021-01-21 00:36:04,833 WARNING  * Debugger is active!
+2021-01-21 00:36:04,841 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:36:05,022 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:36:07,705 ERROR request.get_data: b'[{"time":1611177810,"source":"nginx-controller","sourcetype":"security","host":"10.0.0.43","event":{"signature_ids":"200001475,200000098","version":"1.0","description":"Request rejected from 52.247.48.116 to app_f5-bigip-api.f5app.dev/adc_main.  Attack types: Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","http.remote_addr":"52.247.48.116","http.server_port":"443","violation_rating":"MOST_LIKELY_ATTACK","is_truncated":"false","signature_names":"XSS script tag end (Parameter) (2),XSS script tag (Parameter)","component":"adc_main","request_outcome":"REJECTED","signature_cves":"","http.request_method":"GET","correlation_id":"547d419559df7cd2a98682405fce8d6d","request":"GET /v1/mgmt/tm/asm/policies?=fullPath%20eq%20/test1/app1/waf_policy-app1%3Cscript%3E HTTP/1.1\\\\r\\\\nUser-Agent: fasthttp\\\\r\\\\nHost: f5-bigip-api.f5app.dev:443\\\\r\\\\n\\\\r\\\\n","level":"INFO","app":"app_f5-bigip-api.f5app.dev","gateway":"gw_f5-bigip-api","http.uri":"/v1/mgmt/tm/asm/policies","http.response_code":"0","http.hostname":"nginxwaf000000","type":"security violation","http.server_addr":"0.0.0.0","support_id":"12058970043145809587","policy_name":"/Common/NAPBlockingDefaultPolicy","violations":"Illegal meta character in value,Attack signature detected,Violation Rating Threat detected","environment":"env_north_f5","request_outcome_reason":"SECURITY_WAF_VIOLATION","http.remote_port":"42622","attack_types":"Non-browser Client,Abuse of Functionality,Cross Site Scripting (XSS)","sub_violations":"","x_forwarded_for_header_value":""}}]'
+2021-01-21 00:36:07,705 ERROR CONTENT_TYPE: application/json
+2021-01-21 00:36:07,707 INFO 127.0.0.1 - - [21/Jan/2021 00:36:07] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:08,277 INFO 212.121.177.181 - - [21/Jan/2021 00:36:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:13,279 INFO 212.121.177.181 - - [21/Jan/2021 00:36:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:18,279 INFO 212.121.177.181 - - [21/Jan/2021 00:36:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:23,279 INFO 212.121.177.181 - - [21/Jan/2021 00:36:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:28,282 INFO 212.121.177.181 - - [21/Jan/2021 00:36:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:33,288 INFO 212.121.177.181 - - [21/Jan/2021 00:36:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:38,280 INFO 212.121.177.181 - - [21/Jan/2021 00:36:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:43,277 INFO 212.121.177.181 - - [21/Jan/2021 00:36:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:48,285 INFO 212.121.177.181 - - [21/Jan/2021 00:36:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:53,278 INFO 212.121.177.181 - - [21/Jan/2021 00:36:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:36:58,279 INFO 212.121.177.181 - - [21/Jan/2021 00:36:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:03,283 INFO 212.121.177.181 - - [21/Jan/2021 00:37:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:08,284 INFO 212.121.177.181 - - [21/Jan/2021 00:37:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:13,286 INFO 212.121.177.181 - - [21/Jan/2021 00:37:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:18,285 INFO 212.121.177.181 - - [21/Jan/2021 00:37:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:23,286 INFO 212.121.177.181 - - [21/Jan/2021 00:37:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:28,284 INFO 212.121.177.181 - - [21/Jan/2021 00:37:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:33,284 INFO 212.121.177.181 - - [21/Jan/2021 00:37:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:38,287 INFO 212.121.177.181 - - [21/Jan/2021 00:37:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:43,283 INFO 212.121.177.181 - - [21/Jan/2021 00:37:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:48,292 INFO 212.121.177.181 - - [21/Jan/2021 00:37:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:53,291 INFO 212.121.177.181 - - [21/Jan/2021 00:37:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:37:58,289 INFO 212.121.177.181 - - [21/Jan/2021 00:37:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:03,284 INFO 212.121.177.181 - - [21/Jan/2021 00:38:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:08,294 INFO 212.121.177.181 - - [21/Jan/2021 00:38:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:13,290 INFO 212.121.177.181 - - [21/Jan/2021 00:38:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:18,298 INFO 212.121.177.181 - - [21/Jan/2021 00:38:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:23,286 INFO 212.121.177.181 - - [21/Jan/2021 00:38:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:28,289 INFO 212.121.177.181 - - [21/Jan/2021 00:38:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:33,288 INFO 212.121.177.181 - - [21/Jan/2021 00:38:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:38,288 INFO 212.121.177.181 - - [21/Jan/2021 00:38:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:43,291 INFO 212.121.177.181 - - [21/Jan/2021 00:38:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:48,293 INFO 212.121.177.181 - - [21/Jan/2021 00:38:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:53,292 INFO 212.121.177.181 - - [21/Jan/2021 00:38:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:58,289 INFO 212.121.177.181 - - [21/Jan/2021 00:38:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:38:58,740 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:38:58,784 INFO  * Restarting with stat
+2021-01-21 00:38:59,994 WARNING  * Debugger is active!
+2021-01-21 00:39:00,001 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:39:00,182 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:39:03,298 INFO 212.121.177.181 - - [21/Jan/2021 00:39:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:39:08,294 INFO 212.121.177.181 - - [21/Jan/2021 00:39:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:39:13,294 INFO 212.121.177.181 - - [21/Jan/2021 00:39:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:39:18,292 INFO 212.121.177.181 - - [21/Jan/2021 00:39:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:39:23,292 INFO 212.121.177.181 - - [21/Jan/2021 00:39:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:39:28,293 INFO 212.121.177.181 - - [21/Jan/2021 00:39:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:39:33,295 INFO 212.121.177.181 - - [21/Jan/2021 00:39:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:39:38,293 INFO 212.121.177.181 - - [21/Jan/2021 00:39:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:41:50,654 INFO  * Restarting with stat
+2021-01-21 00:41:51,824 WARNING  * Debugger is active!
+2021-01-21 00:41:51,831 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:41:52,025 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:41:53,307 INFO 212.121.177.181 - - [21/Jan/2021 00:41:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:41:54,713 INFO 127.0.0.1 - - [21/Jan/2021 00:41:54] "[35m[1mPOST /forward HTTP/1.1[0m" 500 -
+2021-01-21 00:41:58,307 INFO 212.121.177.181 - - [21/Jan/2021 00:41:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:42:03,309 INFO 212.121.177.181 - - [21/Jan/2021 00:42:03] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:42:08,312 INFO 212.121.177.181 - - [21/Jan/2021 00:42:08] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:42:13,310 INFO 212.121.177.181 - - [21/Jan/2021 00:42:13] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:42:18,310 INFO 212.121.177.181 - - [21/Jan/2021 00:42:18] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:42:20,567 INFO  * Detected change in 'C:\\data\\adacosta\\SE\\96_POC\\f5-cas-logstream\\wsgi.py', reloading
+2021-01-21 00:42:20,617 INFO  * Restarting with stat
+2021-01-21 00:42:21,829 WARNING  * Debugger is active!
+2021-01-21 00:42:21,836 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:42:22,019 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:42:23,309 INFO 212.121.177.181 - - [21/Jan/2021 00:42:23] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:42:28,309 INFO 212.121.177.181 - - [21/Jan/2021 00:42:28] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:42:33,321 INFO 212.121.177.181 - - [21/Jan/2021 00:42:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:27,969 INFO  * Restarting with stat
+2021-01-21 00:46:29,155 WARNING  * Debugger is active!
+2021-01-21 00:46:29,162 INFO  * Debugger PIN: 314-794-097
+2021-01-21 00:46:29,343 INFO  * Running on http://0.0.0.0:3001/ (Press CTRL+C to quit)
+2021-01-21 00:46:31,526 INFO 127.0.0.1 - - [21/Jan/2021 00:46:31] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:33,330 INFO 212.121.177.181 - - [21/Jan/2021 00:46:33] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:37,607 INFO 127.0.0.1 - - [21/Jan/2021 00:46:37] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:38,332 INFO 212.121.177.181 - - [21/Jan/2021 00:46:38] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:43,339 INFO 212.121.177.181 - - [21/Jan/2021 00:46:43] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:48,330 INFO 212.121.177.181 - - [21/Jan/2021 00:46:48] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:53,335 INFO 212.121.177.181 - - [21/Jan/2021 00:46:53] "[37mPOST /forward HTTP/1.1[0m" 200 -
+2021-01-21 00:46:58,332 INFO 212.121.177.181 - - [21/Jan/2021 00:46:58] "[37mPOST /forward HTTP/1.1[0m" 200 -
