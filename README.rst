@@ -106,6 +106,9 @@ Remote Syslog
 .. code:: bash
 
     vi /etc/td-agent/td-agent.conf
+
+.. code:: xml
+
         <match debug.**>
           @type stdout
           @id output_stdout
