@@ -455,9 +455,6 @@ class Forward(Resource):
               200:
                 description: Event received
         """
-
-        print("received data: %s" % request.data)
-
         # Sanity Check
         if request.headers['Authorization'].split(' ')[1] != cas.api_key:
             return {
@@ -471,19 +468,26 @@ class Forward(Resource):
 
         # Events
         else:
-            print("Events")
+            # DEBUG ISSUE - header application/x-www-form-urlencoded generates an empty request.data value in Flask via NGINX UNIT #
+            print("Events--------------------------------------")
+            print('request.data.decode: %s' %
+                  (request.data.decode()))
             logger.error('request.data: %s' %
                          request.data)
             logger.error('request.get_data: %s' %
                          request.get_data())
             logger.error('request.data.decode: %s' %
                          (request.data.decode()))
-            data_json = json.loads(request.data.decode())
+            # END DEBUG ISSUE #
+
             data_json = request.get_json(force=True, silent=True)
             if data_json is None:
                 logger.error('%s' %
                              (request.data.decode()))
-                data_json = json.loads(request.data.decode())
+                return {
+                    'code': 401,
+                    'msg': 'Malformed request'
+                }
             cas.append_events(data_json)
             return {'msg': 'security event OK'}
 

@@ -1,29 +1,46 @@
 ---
-# https://unit.nginx.org/installation/centos
-- name: COPY unit repo
-  copy:
-    content: "{{ lookup('template', 'unit_repo.conf') }}"
-    dest: /etc/yum.repos.d/unit.repo
+# https://unit.nginx.org/installation/#ubuntu
+
+- name: DOWNLOAD NGINX’s signing key
+  uri:
+    url: "https://nginx.org/keys/nginx_signing.key"
+    return_content: yes
+  register: nginx_signing_key
+
+- name: ADD NGINX’s signing key to apt’s keyring
+  apt_key:
+    data: "{{ nginx_signing_key.content }}"
+
+- name: To configure Unit repository, create the following file named
+  apt_repository:
+    repo: "{{ item }}"
+    filename: unit
+  loop:
+    - "deb https://packages.nginx.org/unit/ubuntu/ bionic unit"
+    - "deb-src https://packages.nginx.org/unit/ubuntu/ bionic unit"
+
+- name: UPDATE apt
+  apt:
+    name: "*"
+    state: latest
 
 - name: INSTALL package
   package:
     name:
-      - python3
-      - python-setuptools
       - git
       - unit
-      - unit-python36
-      - gcc
-      - openssl-devel
-      - bzip2-devel
-      - libffi-devel
-      - zlib-devel
+      - unit-python3.7
+      - build-essential
+      - zlib1g-dev
+      - libncurses5-dev
+      - libgdbm-dev
+      - libnss3-dev
+      - libssl-dev
+      - libsqlite3-dev
+      - libreadline-dev
+      - libffi-dev
+      - libbz2-dev
     state: present
-
-#- name: Download foo.conf
-#  get_url:
-#    url: https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tgz
-#    dest: /usr/src/Python-3.7.9.tgz
 
 - name: Unarchive Python3.7
   unarchive:
@@ -50,6 +67,11 @@
 - name: CREATE apps directoty
   file:
     path: /etc/faas-apps
+    state: directory
+
+- name: CREATE log directory
+  file:
+    path: /var/log/unit/
     state: directory
 
 - name: CREATE access log file
@@ -103,15 +125,11 @@
   set_fact:
     var_bundle: "{{ lookup('template', 'bundle.pem') }}"
 
-- name: CMP_OUTPUT
-  debug:
-    msg: "{{ var_bundle }}"
-
 # https://unit.nginx.org/configuration/#ssl-tls-and-certificates
 - name: CREATE a new TLS bundle in Unit TLS store
   uri:
-    unix_socket: /var/run/unit/control.sock
-    url: "http://{{ inventory_hostname }}/certificates/bundle_{{ faas_app.name }}"
+    unix_socket: /var/run/control.unit.sock
+    url: "http://localhost/certificates/bundle_{{ faas_app.name }}"
     method: PUT
     body: "{{ var_bundle }}"
     body_format: json
@@ -122,8 +140,8 @@
 
 - name: GET current TLS bundle in Unit TLS store
   uri:
-    unix_socket: /var/run/unit/control.sock
-    url: "http://{{ inventory_hostname }}/certificates/bundle_{{ faas_app.name }}/chain/0/"
+    unix_socket: /var/run/control.unit.sock
+    url: "http://localhost/certificates/bundle_{{ faas_app.name }}/chain/0/"
     method: GET
     return_content: yes
     status_code: 200
@@ -135,8 +153,8 @@
 
 - name: GET current Unit configuration
   uri:
-    unix_socket: /var/run/unit/control.sock
-    url: "http://{{ inventory_hostname }}/config/"
+    unix_socket: /var/run/control.unit.sock
+    url: "http://localhost/config/"
     method: GET
     return_content: yes
     status_code: 200
@@ -146,11 +164,11 @@
 - debug:
     var: config_json
 
-# https://unit.nginx.org/configuration/#python
+# https://unit.nginx.org/configuration/python
 - name: UPDATE Unit configuration
   uri:
-    unix_socket: /var/run/unit/control.sock
-    url: "http://{{ inventory_hostname }}/config/"
+    unix_socket: /var/run/control.unit.sock
+    url: "http://localhost/config/"
     method: PUT
     headers:
         Content-Type: application/json
@@ -171,8 +189,8 @@
 
 - name: GET current Unit configuration
   uri:
-    unix_socket: /var/run/unit/control.sock
-    url: "http://{{ inventory_hostname }}/config/"
+    unix_socket: /var/run/control.unit.sock
+    url: "http://localhost/config/"
     method: GET
     return_content: yes
     status_code: 200
@@ -182,4 +200,18 @@
 - debug:
     var: config_json
 
+- name: INSTALL package
+  package:
+    name:
+      - build-essential
+      - zlib1g-dev
+      - libncurses5-dev
+      - libgdbm-dev
+      - libnss3-dev
+      - libssl-dev
+      - libsqlite3-dev
+      - libreadline-dev
+      - libffi-dev
+      - libbz2-dev
+    state: absent
 ...

@@ -12,7 +12,7 @@
     },
     "applications": {
         "flask_app": {
-            "type": "python 3",
+            "type": "python 3.7",
             "working_directory": "/etc/faas-apps/{{ faas_app.name }}",
             "home": "/etc/faas-apps/venv",
             "path": "/etc/faas-apps/{{ faas_app.name }}",

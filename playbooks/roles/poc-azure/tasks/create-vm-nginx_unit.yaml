@@ -53,9 +53,9 @@
       - path: "/home/{{ infra_admin_username }}/.ssh/authorized_keys"
         key_data: "{{ extra_vm.key_data }}"
     image:
-      offer: "CentOS"
-      publisher: "OpenLogic"
-      sku: "7.4"
+      offer: "UbuntuServer"
+      publisher: "Canonical"
+      sku: "18.04-LTS"
       version: "latest"
     managed_disk_type: Premium_LRS
     os_type: Linux
