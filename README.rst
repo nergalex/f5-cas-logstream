@@ -102,7 +102,6 @@ Remote Syslog
 .. code:: bash
 
     curl -L https://toolbelt.treasuredata.com/sh/install-redhat-td-agent4.sh | sh
-    systemctl start td-agent.service
 
 - Configure Fluentd with a TCP syslog INPUT
 .. code:: bash
@@ -125,6 +124,13 @@ Remote Syslog
           <transport tcp>
             </transport>
         </source>
+
+- Start service
+
+.. code:: bash
+
+    systemctl start td-agent.service
+
 
 - Unit test
 .. code:: bash

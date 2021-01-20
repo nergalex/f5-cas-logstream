@@ -472,7 +472,6 @@ class Forward(Resource):
         # Events
         else:
             print("Events")
-            print("%s" % request.data.decode())
             logger.error('request.data: %s' %
                          request.data)
             logger.error('request.get_data: %s' %
