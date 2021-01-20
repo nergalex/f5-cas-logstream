@@ -467,13 +467,15 @@ class Forward(Resource):
 
         # Authorization request
         elif request.headers['Content-Length'] == '0':
-
             return {'msg': 'heartbeat OK'}
 
         # Events
         else:
             print("Events")
-            cas.append_events(request.get_json(force=True, silent=True))
+            data_json = request.get_json(force=True, silent=True)
+            if data_json is None:
+                data_json = json.loads(request.data)
+            cas.append_events(data_json)
             return {'msg': 'security event OK'}
 
 
