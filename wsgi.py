@@ -455,27 +455,26 @@ class Forward(Resource):
               200:
                 description: Event received
         """
-        # Sanity Check
+
         print("received data: %s" % request.data)
 
+        # Sanity Check
         if request.headers['Authorization'].split(' ')[1] != cas.api_key:
             return {
                 'code': 401,
                 'msg': 'Unauthorized'
             }
-        else:
-            # Authorization request
-            data_json = request.get_json(force=True, silent=True)
-            if data_json is None:
-                try:
-                    data_json = json.loads(request.get_data())
-                except:
-                    return request.get_data()
 
-            # Append events
-            else:
-                cas.append_events(data_json)
-                return {'msg': 'security event OK'}
+        # Authorization request
+        elif request.headers['Content-Length'] == '0':
+
+            return {'msg': 'heartbeat OK'}
+
+        # Events
+        else:
+            print("Events")
+            cas.append_events(request.get_json(force=True, silent=True))
+            return {'msg': 'security event OK'}
 
 
 # Global var
