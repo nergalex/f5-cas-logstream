@@ -468,7 +468,6 @@ class Forward(Resource):
 
         # Events
         else:
-
             # WORKAROUND ISSUE - header application/x-www-form-urlencoded generates an empty request.data value in Flask via NGINX UNIT #
             if request.content_type == 'application/x-www-form-urlencoded':
                 data_form = ''
@@ -478,7 +477,7 @@ class Forward(Resource):
             else:
                 data_json = request.get_json(force=True, silent=True)
 
-            print('%s' % str(data_json))
+            # JSON format sanity check
             if data_json is None:
                 return {
                     'code': 400,

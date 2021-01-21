@@ -5,7 +5,7 @@
     "logcollector": {
         "syslog": [
             {
-                "ip_address": "10.100.0.6",
+                "ip_address": "127.100.0.6",
                 "port": 5140
             }
         ]
