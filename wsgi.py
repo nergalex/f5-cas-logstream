@@ -496,7 +496,7 @@ logcol_db = output.LogCollectorDB(logger)
 thread_manager = {
     'event': threading.Event(),
     'thread_queue': {},
-    'update_interval': 10,
+    'update_interval': 1,
 }
 
 # event = True == engine stopped
