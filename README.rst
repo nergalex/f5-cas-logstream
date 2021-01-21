@@ -9,6 +9,8 @@ Use Case
 
 LogStream forwards http security event logs - received from NGINX Controller App Sec - to remote syslog servers (log collector, SIEM)
 
+.. figure:: _picture/architecture.png
+
 Demo
 ###############
 
