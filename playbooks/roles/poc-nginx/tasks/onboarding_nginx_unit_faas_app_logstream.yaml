@@ -148,9 +148,6 @@
     validate_certs: false
   register: crt_json
 
-- debug:
-    var: crt_json
-
 - name: GET current Unit configuration
   uri:
     unix_socket: /var/run/control.unit.sock
@@ -161,10 +158,7 @@
     validate_certs: false
   register: config_json
 
-- debug:
-    var: config_json
-
-# https://unit.nginx.org/configuration/python
+# https://unit.nginx.org/configuration/#python
 - name: UPDATE Unit configuration
   uri:
     unix_socket: /var/run/control.unit.sock
@@ -178,9 +172,6 @@
     status_code: 200, 202
     validate_certs: false
   register: config_json
-
-- debug:
-    var: config_json
 
 - name: ReStart service NGINX Unit
   service:
@@ -196,9 +187,6 @@
     status_code: 200
     validate_certs: false
   register: config_json
-
-- debug:
-    var: config_json
 
 - name: INSTALL package
   package:
